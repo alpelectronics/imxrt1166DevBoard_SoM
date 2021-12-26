@@ -1,7 +1,7 @@
 # imxrt1166DevBoard_SoM
 SoM PCB with NXP IMXRT1166 MCU
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L0Kk9T8-YQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/L0Kk9T8-YQU
 
 Bu seride NXP'nin çift çekirdekli mikro işlemcisini kullanarak 6 Layer PCB cizecegim. 
 
