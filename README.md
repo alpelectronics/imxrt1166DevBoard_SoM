@@ -1,0 +1,2 @@
+# imxrt1166DevBoard_SoM
+SoM PCB with NXP IMXRT1166 MCU
