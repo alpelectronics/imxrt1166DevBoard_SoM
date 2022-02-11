@@ -1,4 +1,7 @@
 Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=MCU Power-2.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=MCU Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=MCU.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=NAND Flash - QSPI.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Power.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Ram.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Ram.SchDoc|SheetNumber=5
