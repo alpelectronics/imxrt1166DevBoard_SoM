@@ -1,7 +1,14 @@
-Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=MCU Power-2.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=MCU Power.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=MCU.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=NAND Flash - QSPI.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Power.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Ram.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Boot.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Codec.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Connector.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=MCU Power-2.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=MCU Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=MCU.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=NAND Flash - QSPI.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Ram.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Screen.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Sensors.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=USB-OTG.SchDoc|SheetNumber=13
